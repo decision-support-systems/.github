@@ -1,6 +1,6 @@
-# Decision Support Systems
+# AI with Decision Support Systems
 
-A central space for [University of Huddersfield](https://hud.ac.uk) researchers and developers to collaborate on software, research, and deployment related to AI-enabled decision support systems.
+A central space for [University of Huddersfield](https://hud.ac.uk) researchers and developers to collaborate on software, research, and deployment related to AI-enabled AI with Decision Support Systems.
 
 This organisation brings together domain-focused projects, research outputs, and technical prototypes — covering areas such as housing strategy, health care, and operational analytics — developed with public and private sector partners.
 
@@ -59,6 +59,6 @@ For general enquiries or collaboration requests:
 ---
 
 ## 🏛️ Maintained By
-This organisation is maintained by members of the University of Huddersfield Decision Support Systems hub.
+This organisation is maintained by members of the University of Huddersfield AI with Decision Support Systems hub.
 
 ---
